@@ -7,3 +7,6 @@ all: $(OBJECTS)
 
 $(OBJECTS): src/*.lisp
 	$(SBCL_CMD) build.lisp
+
+github:
+	git push 

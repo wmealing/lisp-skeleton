@@ -8,15 +8,14 @@ This is a small demo, that probably can be extended out to more things when I fi
 
 ### Requirements
 
-    sbcl installed.
-    make installed
+* sbcl installed.
+* make installed
 
 ### Modification
 
-    Its super unlikely that your project is going to be called lisp-skeleton client. 
-    Please searcht through the sources and replace this string with your project name.
+Its super unlikely that your project is going to be called lisp-skeleton client.  Please searcht through the sources and replace this string with your project name.
 
 ### Building
-    Lisp itself kinda has some weirdo build system, with systems, and quicklisp.
-    I have attempted to mask all this behind 'make.
-    
+
+Lisp itself kinda has some weirdo build system, with systems, and quicklisp. I have attempted to mask all this behind 'make.
+
